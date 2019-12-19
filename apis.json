@@ -1,0 +1,58 @@
+{
+    "name": "Dezrez",
+    "description": "Cloud based estate agent software \u2122, sales & letting agent software, estate agent website design and property management software - Dezrez \u00ae Services",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
+    "tags": [
+        "have api",
+        "properties",
+        "relative data",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dezrez\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dezrez.Rezi.Client.Api",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
+            "humanURL": "https:\/\/www.dezrez.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dezrez-rezi-client-api-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/dezrez-rezi-client-api.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/dezrez"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/api.dezrez.com\/swagger\/ui\/index#!\/AccountingExport"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/www.dezrez.com\/uk\/estate-agency-software-support"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dezrezsoftware"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.dezrez.com"
+        }
+    ]
+}
